@@ -11,6 +11,7 @@ body {
   background-image: url("https://imgs.search.brave.com/OT-LkJO6_czE2YgHp_PSQaLiDuBvHXI0Ua8KkDnIQcM/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9iZXN0/YW5pbWF0aW9ucy5j/b20vbWVkaWEvZ2Fs/YXh5LzE3Mjg2OTQ1/NTBnYWxheHktYW5p/bWF0aW9uLmdpZg.gif");
   background-size: cover;
   padding: 10px 0 40px 0;
+  min-height: 800px;
 }
 
 #main-logo {
